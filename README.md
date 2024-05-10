@@ -3,14 +3,18 @@
 <h3 align="center">A passionate computer science student from India</h3>
 
 
-<h3>Github Trophies🏆🤩 </h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishaaa-t" alt="dishaaa-t" /></a> </p>
-
 - 🌱 I’m currently learning **basics of programming in c and python and web development**
 
 - 🤝 I’m looking for help with **AI/ML and full-stack development**
 
 - 🔭 I’m currently working on <b>Data Structure and Algorithms</b>
+
+<p>   
+ 
+
+
+</p>
+
 
 
 <p align="left">
@@ -22,6 +26,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishaaa-t&show_icons=true&locale=en&layout=compact" alt="dishaaa-t" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishaaa-t&" alt="dishaaa-t" /></p>
+
+<h3>Github Trophies🏆🤩 </h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishaaa-t" alt="dishaaa-t" /></a> </p>
 
 <h3><b> Random Meme</b> 😁</h3>
 <p><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhat-are-some-of-the-best-funny-quotes-for-software-developers&psig=AOvVaw1D0P7gH22rAD7aw997NJkN&ust=1715395676546000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiez4KJgoYDFQAAAAAdAAAAABAY" alt="dishaaa-t" /></p>
