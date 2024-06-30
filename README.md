@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Disha Topare</h1>
+<h1 align="center">Hi 👋, I'm Disha </h1>
 <h2 align="center">About me 😊</h2>
-<h3 align="center">A passionate computer science student from India</h3>
+<h3 align="center">A passionate computer science student from India 💫</h3>
 
 
 - 🌱 I’m currently learning **basics of programming in c and python and web development**
