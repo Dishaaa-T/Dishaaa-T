@@ -40,3 +40,7 @@
 <p><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhat-are-some-of-the-best-funny-quotes-for-software-developers&psig=AOvVaw1D0P7gH22rAD7aw997NJkN&ust=1715395676546000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiez4KJgoYDFQAAAAAdAAAAABAY" alt="dishaaa-t" /></p>
 
 
+ [![An image of @dishaaat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dishaaat)](https://holopin.io/@dishaaat)
+
+
+
