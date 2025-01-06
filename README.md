@@ -1,7 +1,7 @@
-
-<h1 align="center">Hi 👋, I'm Disha </h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=30&pause=950&color=F23AF7&center=true&vCenter=true&width=435&lines=Hello+There+%F0%9F%91%8B;I+am+Disha+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</h1>
 <h2 align="center">About me 😊</h2>
-<h3 align="center">A passionate computer science student from India 💫</h3>
+<h3 align="left">A passionate computer science student from India 💫</h3>
 
 
 - 🌱 I’m currently learning **basics of programming in c and python and web development**
