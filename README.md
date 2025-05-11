@@ -7,9 +7,9 @@
 <h3 align="left">A passionate computer science student from India 💫</h3>
 
 
-- 🌱 I’m currently learning **basics of programming in c and python and web development**
+- 🌱 I’m currently learning **Full Stack development** and **Basics of Cyber Security**
 
-- 🤝 I’m looking for help with **AI/ML and full-stack development**
+- 🤝 I’m looking for help with **AI/ML , full-stack development** and **Cyber Security**
 
 - 🔭 I’m currently working on <b>Data Structure and Algorithms</b>
 
